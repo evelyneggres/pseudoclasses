@@ -1,0 +1,11 @@
+p:first-child{
+    color: rgb(195, 146, 233);
+}
+
+p:nth-child(2){
+    color: rgb(132, 67, 253);
+}
+
+p:last-of-type{
+    color: rgb(115, 74, 156);
+}
